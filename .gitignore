@@ -1,0 +1,17 @@
+*.pyc
+*.sqlite3
+*.DS_Store
+buffer.pdf
+test.pdf
+
+*__pycache__
+static/
+media/
+dist/
+assets/fe/node_modules/
+assets/fe/dist/
+
+
+env/
+venv/
+assets/fe/src/assets/.sass-cache/
