@@ -2,7 +2,7 @@ beautifulsoup4==4.9.1
 celery==4.4.5
 Django==3.0.7
 html5lib==1.0.1
-lxml==4.5.1
+lxml==4.9.1
 redis==3.5.3
 requests==2.23.0
 Unidecode==1.1.1
